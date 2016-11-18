@@ -8,3 +8,4 @@
 - [Babadum](https://babadum.com/)
 - [Anki](http://ankisrs.net/)
 - [Medium](https://medium.com/)
+- [Lingualeo](https://lingualeo.com/)
